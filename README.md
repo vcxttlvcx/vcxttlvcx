@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=9400d3&height=250&section=header&text=Seokjun%20Cho&fontSize=90&fontColor=ffff00&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=9400d3&height=250&section=header&text=Seokjun%20Cho&fontSize=90&fontColor=c8a2c8&animation=fadeIn)
   
   ### 🛠️Stack🛠️
   
